@@ -16,7 +16,7 @@ timezone: Asia/Tokyo
 
 title: 脳の缶詰 # the main title
 
-tagline: サーバ開発の全てを知るまで… # it will display as the subtitle
+tagline: 開発記録ブログ # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   主にサーバ開発に関する情報を投稿しています。
